@@ -1,0 +1,36 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  h1{
+    font-size:70px;
+    font-weight:100;
+    text-align:center;
+  }
+  p{
+    font-size:3em;
+    text-align:center;
+  }
+  div{
+    text-align:center;
+  }
+  body{
+    background-color: mediumvioletred;
+  }
+  button{
+    width:180px;
+    height:70px;
+    color:white;
+    font-size:30px;
+    border-radius:10px;
+    margin-right:14px;
+    outline:none;
+    border:2.5px solid white ;
+    background:transparent;
+  }
+  button:hover{
+    color:mediumvioletred;
+    background: white;
+    font-weight:800px;
+    font-size:30px;
+  }
